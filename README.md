@@ -1,4 +1,4 @@
-# Rossmann Store Sales
+# Rossmann Store Sales Prediction
 Kaggle competition link: https://www.kaggle.com/competitions/rossmann-store-sales/
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z8OZgewf3_don1yq9FiWF3py4rhtMFWK)
